@@ -3,8 +3,8 @@ name: observational-reframe
 description: Transform political, social, or cultural observations into Trevor Noah-style comedy by applying the outsider's lens to reveal inherent absurdities and contradictions.
 license: MIT
 metadata:
-  version: 1.0.4592
   author: sethmblack
+  version: 1.0.4593
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
